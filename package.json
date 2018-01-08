@@ -1,0 +1,30 @@
+{
+  "name": "react-native-lockscreen-control",
+  "version": "1.0.0",
+  "author": "Robert Stone",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drzigman/react-native-lockscreen-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drzigman/react-native-lockscreen-control/issues"
+  },
+  "homepage": "https://github.com/drzigman/react-native-lockscreen-control",
+  "keywords": [
+    "react-native",
+    "lockscreen",
+    "lock"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  },
+  "dependencies": {
+    "react-native": "^0.51.0"
+  }
+}
